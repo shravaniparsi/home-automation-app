@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "VueJS Cordova Sample",
+  "short_name": "VueJS Cordova Sample",
+  "version": "vuejs.cordova.sample",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "author": "Valentin Brosseau",
+  "icons": [],
+  "start_url": "index.html",
+  "theme_color": "#313AA5"
+}

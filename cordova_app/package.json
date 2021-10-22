@@ -1,0 +1,25 @@
+{
+    "name": "vuejs_cordova_sample",
+    "displayName": "Vue Cordova Sample",
+    "version": "1.0.0",
+    "description": "A sample Apache Cordova application that responds to the deviceready event.",
+    "main": "index.js",
+    "scripts": {},
+    "author": "Apache Cordova Team",
+    "license": "Apache-2.0",
+    "dependencies": {},
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-whitelist": {}
+        },
+        "platforms": [
+            "android",
+            "browser"
+        ]
+    },
+    "devDependencies": {
+        "cordova-android": "^8.1.0",
+        "cordova-browser": "^6.0.0",
+        "cordova-plugin-whitelist": "^1.3.2"
+    }
+}
